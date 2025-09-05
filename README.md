@@ -37,7 +37,7 @@ Pour voir le projet localement :
 
 Déploiement
 Le site est hébergé avec GitHub Pages.  
-Lien du portfolio en ligne : [Mon Portfolio](lien-vers-ton-site)
+Lien du portfolio en ligne : [Mon Portfolio](https://doudouabdoulaye.github.io/Mon-Portfolio/)
 
 
 Auteur
